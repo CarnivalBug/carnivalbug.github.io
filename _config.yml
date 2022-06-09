@@ -85,9 +85,9 @@ author:
   bio              : "PhD Student at University of Illinois at Urbana-Champaign"
   location         : "Champaign, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=FNN4IasAAAAJ&hl=en"
-  email            :
+  email            : "flu8@illinois.edu"
   researchgate     : "https://www.researchgate.net/profile/Fangzheng-Lyu?ev=hdr_xprf&_sg=vmjnGCoLSMoIstpTfvbwLDWz7EEV2t6y8fN1ITKsF5jq0P1TlgBxe4Wi36DI9nKYZQu4wz0eYxDCy7Ldr8sWiY_2"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
