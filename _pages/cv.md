@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Here](https://ggis.illinois.edu/sites/default/files/cv/Lyu_CV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Engineering, University of Hong Kong, 2018
+* M.S. in Geography and Geographical Information Science, University of Illinois Urbana-Champaign, 2021
+* Ph.D in Geography and Geographical Information Science, University of Illinois Urbana-Champaign, 2023 (expected)
 
 Work experience
 ======
