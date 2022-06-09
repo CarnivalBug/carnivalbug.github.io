@@ -14,4 +14,4 @@ I am a fourth-year Ph.D. student studying Geographical Information Science under
 
 I got my MSc in Geography and GIS from [University of Illinois at Urbana-Champaign](https://illinois.edu/) on 2021 and BE in Computer Engineering from the [University of Hong Kong](https://www.hku.hk/) on 2018. 
 
-My research interests include 1) examine and evaluate the heat dynamics in the urban area with cyberGIS and high-performance geospatial computing; 2) hydrological features extraction using Light Detection and Ranging (LiDAR) data; and 3) building system tools for accessing high-performance computer via CyberGIS platform.
+My research interests include 1) examine and evaluate the heat dynamics in the urban area with cyberGIS and high-performance geospatial computing; 2) hydrological features extraction using Light Detection and Ranging (LiDAR) data; and 3) building scientific gateway for accessing high-performance computer via CyberGIS platform.
