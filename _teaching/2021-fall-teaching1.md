@@ -6,13 +6,3 @@ venue: "University of Illinois at Urbana Champaign, *Instructor*, 2021 Fall"
 date: 2021-09-01
 location: "Urbana, IL, US"
 ---
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
