@@ -10,7 +10,8 @@ Who is complaining about extreme hot weather? How to monitor and avoid extreme h
 
 Prediction of Urban Heat Island
 ======
+We predict the urban heat island with fine spatiotemporal granularity within the city of Chicago. Machine learning models are used for the prediction with [Array of Things](https://arrayofthings.github.io/) urban sensing data, and remote sensing data.
 
-How to predict UHI within a city at fine spatial and temporal scales? 
+
 ------
 
