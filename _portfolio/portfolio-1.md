@@ -1,6 +1,6 @@
 ---
 title: "Urban Heat Dynamics"
-excerpt: "Predicted Heat Island in the City of Chicago on 2018.8.27 <br/><img src='/images/ri1.png'>"
+excerpt: "Predicted Heat Island in the City of Chicago on 2018.8.27 <br/><img src='/images/ri1.png' width="500">"
 collection: portfolio
 ---
 
