@@ -13,30 +13,27 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Engineering, University of Hong Kong, 2018
-* M.S. in Geography and Geographical Information Science, University of Illinois Urbana-Champaign, 2021
 * Ph.D in Geography and Geographical Information Science, University of Illinois Urbana-Champaign, 2023 (expected)
+* M.S. in Geography and Geographical Information Science, University of Illinois Urbana-Champaign, 2021
+* B.E. in Computer Engineering, University of Hong Kong, 2018
+* Student Exchange, Northwestern University, Fall 2017
+* Student Exchange, University of California, Berkeley, Summer 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - Present: Research/Teaching Assistant
+  * University of Illinois at Urbana-Champaign
+  * Supervisor: Dr. Shaowen Wang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2017: Software Engineer Intern
+  * L3 Bioinformatics, Hong Kong
+
+* Spring & Fall 2017: Research Assistant
+  * University of Hong Kong
+  * Supervisor: Dr. Tak-Wah Lam
+ 
+* Summer 2016: Software Engineer Intern
+  * NetEase, Hangzhou
 
 Publications
 ======
@@ -56,6 +53,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards, Fellowships
 ======
-* Currently signed in to 43 different slack teams
+* Finalist, AAG-GISS student paper competition, Association of American Geographers, 2022
+* Finalist, AAG Robert Raskin Student Competition, Association of American Geographers, 2019
+* First Division Honor, The University of Hong Kong, 2018
+* Dean’s Honor List, The University of Hong Kong, 2017
+* HKU Foundation Scholarship for outstanding student, The University of Hong Kong, 2015 - 2018
+* Soong Ching-ling Scholarship, Shanghai Soong Ching Ling Foundation, 2014 - 2018
+* First Prize at Zhejiang Physics Olympiad, Zhejiang Physical Society, 2013
