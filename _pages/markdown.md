@@ -20,4 +20,16 @@ redirect_from:
 * Typewriter
 * Titanic (ongoing project!!!)
 
-<img src='/images/lego.png' width='800'>
+<img src='/images/lego.png' width='1000'>
+
+## Video Games I Love
+* Bloodborne
+* Dark Souls 1&2&3
+* Crusader Kings III
+* Stellaris
+* Demon's Souls
+* Total War: Warhammer
+* Sekiro: Shadows Die Twice
+* The Witcher 3: Wild Hunt
+* Persona 5
+* Xenoblade Chronicles 2
