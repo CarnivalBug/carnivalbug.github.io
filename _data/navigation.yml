@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "Research Interest"
+  - title: "Research Interests"
     url: /portfolio/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Hobby"
+  - title: "Hobbies"
     url: /markdown/
