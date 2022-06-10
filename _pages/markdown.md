@@ -13,4 +13,11 @@ redirect_from:
 * Bugatti Chiron
 * Lamborghini Sián FKP 37
 * NASA Apollo Saturn V
+* Tree House
+* NASA Apollo 11 Lunar Lander
+* Colosseum
+* Bonsai Tree
+* Typewriter
+* Titanic (ongoing project!!!)
 
+<img src='/images/lego.png' width='800'>
