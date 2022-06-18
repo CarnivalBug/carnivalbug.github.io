@@ -14,3 +14,6 @@ Currently, I am a fourth-year Ph.D. student studying Geographical Information Sc
 [CyberInfrastructure and Geospatial Information Laboratory](https://cigi.illinois.edu/shaowen-wang/home/) since 2018. 
 
 My research interests include: 1) examination and evaluation of heat dynamics in the urban area with cyberGIS and high-performance geospatial computing; 2) feature extraction using Light Detection and Ranging (LiDAR) data; and 3) scientific gateway construction for accessing high-performance computer (HPC).
+
+# News
+* My Paper titled *CyberGIS for Scalable Remote Sensing Data Fusion* got accepted by [PEARC'22](https://pearc.acm.org/pearc22/)
