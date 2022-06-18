@@ -1,6 +1,6 @@
 ---
 permalink: /data/
-title: "Data & Notebooks"
+title: "Notebooks & Data"
 author_profile: true
 redirect_from: 
   - /md/
