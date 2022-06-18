@@ -16,6 +16,5 @@ Currently, I am a fourth-year Ph.D. student studying Geographical Information Sc
 My research interests include: 1) examination and evaluation of heat dynamics in the urban area with cyberGIS and high-performance geospatial computing; 2) feature extraction using Light Detection and Ranging (LiDAR) data; and 3) scientific gateway construction for accessing high-performance computer (HPC).
 
 # News
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-*  2022.6.17 My Paper titled **An Integrated CyberGIS and Machine Learning Framework for Fine-Scale Prediction of Urban Heat Island Using Satellite Remote Sensing and Urban Sensor Network Data** got accepted by [Urban Informatics](https://www.springer.com/journal/44212)
-*  2022.4.25 My Paper titled **CyberGIS for Scalable Remote Sensing Data Fusion** got accepted by [PEARC'22](https://pearc.acm.org/pearc22/)
+*  <span style="color:orange;">2022.6.17</span> My Paper titled **An Integrated CyberGIS and Machine Learning Framework for Fine-Scale Prediction of Urban Heat Island Using Satellite Remote Sensing and Urban Sensor Network Data** got accepted by [Urban Informatics](https://www.springer.com/journal/44212)
+*  <span style="color:orange;">2022.4.25</span> My Paper titled **CyberGIS for Scalable Remote Sensing Data Fusion** got accepted by [PEARC'22](https://pearc.acm.org/pearc22/)
