@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Here](https://ggis.illinois.edu/sites/default/files/cv/Lyu_CV_202207.pdf)
+[PDF Here](https://ggis.illinois.edu/sites/default/files/cv/Lyu_CV_20220721.pdf)
 
 Education
 ======
@@ -62,3 +62,4 @@ Awards, Fellowships
 * HKU Foundation Scholarship for outstanding student, The University of Hong Kong, 2015 - 2018
 * Soong Ching-ling Scholarship, Shanghai Soong Ching Ling Foundation, 2014 - 2018
 * First Prize at Zhejiang Physics Olympiad, Zhejiang Physical Society, 2013
+* Second Prize at Zhejiang Chemistry Olympiad, Zhejiang Chemistry Society, 2012
