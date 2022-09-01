@@ -13,7 +13,7 @@ I was born in Hangzhou, a city located in the southeast coast of China. After 18
 Currently, I am a fifth-year Ph.D. student studying Geographical Information Science under the amazing [Dr. Shaowen Wang](https://ggis.illinois.edu/directory/profile/shaowen) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). And I also joined [CyberGIS Center for Advanced Digital and Spatial Studies](https://cybergis.illinois.edu/) and 
 [CyberInfrastructure and Geospatial Information Laboratory](https://cigi.illinois.edu/shaowen-wang/home/) since 2018. 
 
-My research interests include: 1) examination and evaluation of heat dynamics in the urban area with cyberGIS and high-performance geospatial computing; 2) feature extraction using Light Detection and Ranging (LiDAR) data; and 3) scientific gateway construction for accessing high-performance computer (HPC).
+My research interests include: 1) examination and evaluation of heat dynamics in the urban area with cyberGIS and high-performance geospatial computing; 2) remote sensing image fusion and Light Detection and Ranging (LiDAR) feature extraction; and 3) scientific gateway construction for accessing high-performance computer (HPC).
 
 # News
 *  <span style="color:red;">2022.7.12</span> I presented at 2022 ACM PEARC meeting
