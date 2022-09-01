@@ -18,7 +18,7 @@ redirect_from:
 * Colosseum
 * Bonsai Tree
 * Typewriter
-* Titanic (ongoing project!!!)
+* Titanic
 
 <img src='/images/lego.png' width='1000'>
 
