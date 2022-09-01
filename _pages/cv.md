@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geography and Geographical Information Science, University of Illinois Urbana-Champaign, 2023 (expected)
-* M.S. in Geography and Geographical Information Science, University of Illinois Urbana-Champaign, 2021
+* Ph.D in Geography and Environmental Studies, University of Illinois Urbana-Champaign, 2023 (expected)
+* M.S. in Geography, University of Illinois Urbana-Champaign, 2021
 * B.E. in Computer Engineering, University of Hong Kong, 2018
 * Student Exchange, Northwestern University, Fall 2017
 * Student Exchange, University of California, Berkeley, Summer 2015
