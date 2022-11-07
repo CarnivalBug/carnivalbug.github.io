@@ -59,6 +59,9 @@ Awards, Fellowships
 * Finalist, AAG Robert Raskin Student Competition, Association of American Geographers, 2019
 * First Division Honor, The University of Hong Kong, 2018
 * Dean’s Honor List, The University of Hong Kong, 2017
+* HKU Worldwide Undergraduate Student Exchange Scholarship, 2017
 * HKU Foundation Scholarship for outstanding student, The University of Hong Kong, 2015 - 2018
+* Walter Brown Memorial Prizes in Mathematics, 2015
+* Reaching Out Award 2015 for HKSAR Government Scholarship Fund, 2015
 * Soong Ching-ling Scholarship, Shanghai Soong Ching Ling Foundation, 2014 - 2018
 * First Prize at Zhejiang Physics Olympiad, Zhejiang Physical Society, 2013
