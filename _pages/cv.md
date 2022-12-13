@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Here](https://ggis.illinois.edu/sites/default/files/cv/Lyu_CV_202211.pdf)
+[PDF Here](https://ggis.illinois.edu/sites/default/files/cv/Lyu_CV_202212.pdf)
 
 Education
 ======
