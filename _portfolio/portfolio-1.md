@@ -22,12 +22,10 @@ Increasingly pervasive location-aware sensors interconnected with rapidly advanc
 
 <h2>Other related works on urban studies</h2>
 ***Urban accessibility and health***
-<sub><strong>Kang, JY., Michels, A., Lyu, F. et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. Int J Health Geogr 19, 36 (2020). https://doi.org/10.1186/s12942-020-00229-x</strong></sub>
-<br>
-***Human sentiments of urban heat***
-<sub><strong> Lyu, F., Zhou, L., Park, J., Baig, F., Wang, S. Mapping Dynamic Human Sentiments of Heat Exposure with Location‑Based Social Media Data. Under review with International Journal of Geographical Information Science</strong></sub>
-<br>
-***Taxi trajectory clustering in urban area***
-<sub><strong>Wang, C., Lyu, F., Wu, S., Wang, Y., Xu, L., Zhang, F., Wang, S., Wang, Y., Du, Z. (2022). A deep trajectory clustering method based on sequence‑to‑sequence autoencoder model. Transaction in GIS, 26, 1801– 1820. DOI: 10.1111/tgis.12905</strong></sub>
+<br/><sub><strong>Kang, JY., Michels, A., Lyu, F. et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. Int J Health Geogr 19, 36 (2020). https://doi.org/10.1186/s12942-020-00229-x</strong></sub>
+<br/>***Human sentiments of urban heat***
+<br/><sub><strong> Lyu, F., Zhou, L., Park, J., Baig, F., Wang, S. Mapping Dynamic Human Sentiments of Heat Exposure with Location‑Based Social Media Data. Under review with International Journal of Geographical Information Science</strong></sub>
+<br/>***Taxi trajectory clustering in urban area***
+<br/><sub><strong>Wang, C., Lyu, F., Wu, S., Wang, Y., Xu, L., Zhang, F., Wang, S., Wang, Y., Du, Z. (2022). A deep trajectory clustering method based on sequence‑to‑sequence autoencoder model. Transaction in GIS, 26, 1801– 1820. DOI: 10.1111/tgis.12905</strong></sub>
 
 
