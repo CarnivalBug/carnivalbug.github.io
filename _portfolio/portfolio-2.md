@@ -1,5 +1,5 @@
 ---
-title: "LiDAR Feature Extration"
+title: "Remote Sensing Feature Extration"
 excerpt: "<img src='/images/rs2.png' width='800'>"
 collection: portfolio
 ---
