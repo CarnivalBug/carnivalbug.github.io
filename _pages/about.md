@@ -18,7 +18,7 @@ My research focuses on the intersection of computational science and urban geogr
 
 # News
 
-*  <span style="color:green;">2022.6.17</span> My Paper titled ["**An Integrated CyberGIS and Machine Learning Framework for Fine-Scale Prediction of Urban Heat Island Using Satellite Remote Sensing and Urban Sensor Network Data**"] (https://link.springer.com/article/10.1007/s44212-022-00002-4) is published at [Urban Informatics](https://www.springer.com/journal/44212)
+*  <span style="color:green;">2022.6.17</span> My Paper titled ["**An Integrated CyberGIS and Machine Learning Framework for Fine-Scale Prediction of Urban Heat Island Using Satellite Remote Sensing and Urban Sensor Network Data**"](https://link.springer.com/article/10.1007/s44212-022-00002-4) is published at [Urban Informatics](https://www.springer.com/journal/44212)
 *  <span style="color:red;">2022.7.12</span> I presented at 2022 ACM PEARC meeting
 *  <span style="color:orange;">2022.4.25</span> My Paper titled ["**CyberGIS for Scalable Remote Sensing Data Fusion**"](https://dl.acm.org/doi/abs/10.1145/3491418.3535145) is published by [PEARC'22](https://pearc.acm.org/pearc22/)
 *  <span style="color:purple;">2022.2.28</span> I presented at 2022 AAG GI Science & Systems Student Honors Paper Competition
