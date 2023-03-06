@@ -20,7 +20,7 @@ Increasingly pervasive location-aware sensors interconnected with rapidly advanc
 
 <br/><img src='/images/rs1-2.png' width='800'>
 
-<h2>Other related works on urban studies</h2>
+<h2>Other works on urban studies</h2>
 ***Urban accessibility and health***
 <br/><sub><strong>Kang, JY., Michels, A., Lyu, F. et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. Int J Health Geogr 19, 36 (2020). https://doi.org/10.1186/s12942-020-00229-x</strong></sub>
 <br/>***Human sentiments of urban heat***
