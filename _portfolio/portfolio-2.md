@@ -1,6 +1,6 @@
 ---
 title: "LiDAR Feature Extration"
-excerpt: "Drainage system network generated with the vector-based algorithm <br/><img src='/images/rs2.png' width='800'>"
+excerpt: "<img src='/images/rs2.png' width='800'>"
 collection: portfolio
 ---
 
