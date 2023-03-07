@@ -20,14 +20,28 @@ Increasingly pervasive location-aware sensors interconnected with rapidly advanc
 
 <br/><img src='/images/rs1-2.png' width='800'>
 
-<h2>Other works on urban studies</h2>
-***Urban accessibility and health***
-<br/><sub><strong>Kang, JY., Michels, A., Lyu, F. et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. Int J Health Geogr 19, 36 (2020). https://doi.org/10.1186/s12942-020-00229-x</strong></sub>
+<h2>Urban accessibility and health</h2>
+
+<sub><strong>Kang, JY., Michels, A., Lyu, F. et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. Int J Health Geogr 19, 36 (2020). https://doi.org/10.1186/s12942-020-00229-x</strong></sub>
+
+This study measures the spatial accessibility of COVID-19 healthcare resources with a particular focus on Illinois, USA.
+
 <br/><img src='/images/rs1-3.png' width='800'>
-<br/>***Human sentiments of urban heat***
-<br/><sub><strong> Lyu, F., Zhou, L., Park, J., Baig, F., Wang, S. Mapping Dynamic Human Sentiments of Heat Exposure with Location‑Based Social Media Data. Under review with International Journal of Geographical Information Science</strong></sub>
+
+<h2>Human sentiments of urban heat</h2>
+
+<sub><strong> Lyu, F., Zhou, L., Park, J., Baig, F., Wang, S. Mapping Dynamic Human Sentiments of Heat Exposure with Location‑Based Social Media Data. Under review with International Journal of Geographical Information Science</strong></sub>
 <br/><img src='/images/rs1-4.png' width='800'>
-<br/>***Taxi trajectory clustering in urban area***
-<br/><sub><strong>Wang, C., Lyu, F., Wu, S., Wang, Y., Xu, L., Zhang, F., Wang, S., Wang, Y., Du, Z. (2022). A deep trajectory clustering method based on sequence‑to‑sequence autoencoder model. Transaction in GIS, 26, 1801– 1820. DOI: 10.1111/tgis.12905</strong></sub>
+
+This study analyzes and visualizes the human sentiments of extreme heat at the city of Chicago with location-based social media data.
+
+
+<h2>Taxi trajectory clustering in urban area</h2>
+
+<sub><strong>Wang, C., Lyu, F., Wu, S., Wang, Y., Xu, L., Zhang, F., Wang, S., Wang, Y., Du, Z. (2022). A deep trajectory clustering method based on sequence‑to‑sequence autoencoder model. Transaction in GIS, 26, 1801– 1820. DOI: 10.1111/tgis.12905</strong></sub>
+
+
+This study designs a deep trajectory clustering method based on sequence-to-sequence autoencoder model.
+
 <br/><img src='/images/rs1-5.png' width='800'>
 
