@@ -24,11 +24,16 @@ Increasingly pervasive location-aware sensors interconnected with rapidly advanc
 
 <sub><strong>Kang, JY., Michels, A., Lyu, F. et al. Rapidly measuring spatial accessibility of COVID-19 healthcare resources: a case study of Illinois, USA. Int J Health Geogr 19, 36 (2020). https://doi.org/10.1186/s12942-020-00229-x</strong></sub>
 
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), causing the coronavirus disease 2019 (COVID-19) pandemic, has infected millions of people and caused hundreds of thousands of deaths. While COVID-19 has overwhelmed healthcare resources (e.g., healthcare personnel, testing resources, hospital beds, and ventilators) in a number of countries, limited research has been conducted to understand spatial accessibility of such resources. This study fills this gap by rapidly measuring the spatial accessibility of COVID-19 healthcare resources with a particular focus on Illinois, USA.
+
 <br/><img src='/images/rs1-3.png' width='800'>
 
 <h2>Human Sentiments of Urban Heat</h2>
 
 <sub><strong> Lyu, F., Zhou, L., Park, J., Baig, F., Wang, S. Mapping Dynamic Human Sentiments of Heat Exposure with Location‑Based Social Media Data. Under review with International Journal of Geographical Information Science</strong></sub>
+
+We built a model to map the dynamics of human sentiments of heat exposure with Location‑Based Social Media Twitter data. And we are modelling it in a near real-time fashion.
+
 <br/><img src='/images/rs1-4.png' width='800'>
 
 
@@ -36,6 +41,7 @@ Increasingly pervasive location-aware sensors interconnected with rapidly advanc
 
 <sub><strong>Wang, C., Lyu, F., Wu, S., Wang, Y., Xu, L., Zhang, F., Wang, S., Wang, Y., Du, Z. (2022). A deep trajectory clustering method based on sequence‑to‑sequence autoencoder model. Transaction in GIS, 26, 1801– 1820. DOI: 10.1111/tgis.12905</strong></sub>
 
+Most existing trajectory clustering methods use point matching similarity measurement strategies to compare trajectory objects; however, such methods have poor similarity measurement accuracy, which reduces clustering quality. To address this research gap, this article considers a combination of trajectory-feature learning and clustering. A deep trajectory clustering (DTC) method toward clustering-friendly spaces is proposed to simultaneously learn trajectory representations (i.e., low-dimensional vectors are used to represent trajectories) and cluster centroids, and further acquire the cluster assignments end to end. We first use a sequence-to-sequence autoencoder network for pretraining to obtain preliminary trajectory vectors, and then jointly optimize the learned representations and cluster centroids under the same framework. The effectiveness of DTC is demonstrated in synthetic datasets, and the learned representations in the real world can be used to identify hot routes in cities.
 
 <br/><img src='/images/rs1-5.png' width='800'>
 
