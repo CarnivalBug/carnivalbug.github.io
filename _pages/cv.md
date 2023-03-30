@@ -65,3 +65,15 @@ Awards, Fellowships
 * Reaching Out Award 2015 for HKSAR Government Scholarship Fund, 2015
 * Soong Ching-ling Scholarship, Shanghai Soong Ching Ling Foundation, 2014 - 2018
 * First Prize at Zhejiang Physics Olympiad, Zhejiang Physical Society, 2013
+
+Service
+======
+* ***Reviewer*** Environmental Modelling & Software; Transactions in GIS; The Egyptian Journal of Remote Sensing and Space
+Sciences; Journal of Spatial Information Science
+* ***Director*** American Association of Geographers CyberInfrastructure Specialty Group, 2023‑2025
+* ***Session Chair*** AAG 2023 Symposium on Harnessing the Geospatial Data Revolution for Sustainability Solutions: CyberGIS
+and High‑Performance Geospatial Computing
+* ***Student Committee Member*** 2023 School of Earth, Society, and Environment (SESE) Research Review, University of Illinois Urbana-Champaign
+* ***Mentor*** 2019 AAG‑UCGIS Summer School
+
+
