@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Here](https://ggis.illinois.edu/sites/default/files/cv/Lyu_CV_202305.pdf)
+[PDF Here](https://drive.google.com/file/d/1Cukc948_8sjqmxBMIPWJ28GCkfhjXBRP/view?usp=sharing)
 
 Education
 ======
@@ -61,7 +61,7 @@ Awards, Fellowships
 * First Division Honor, The University of Hong Kong, 2018
 * Dean’s Honor List, The University of Hong Kong, 2017
 * HKU Worldwide Undergraduate Student Exchange Scholarship, 2017
-* HKU Foundation Scholarship for outstanding student, The University of Hong Kong, 2015 - 2018
+* HKU Foundation Scholarship for Outstanding Student, The University of Hong Kong, 2015 - 2018
 * Walter Brown Memorial Prizes in Mathematics, 2015
 * Reaching Out Award 2015 for HKSAR Government Scholarship Fund, 2015
 * Soong Ching-ling Scholarship, Shanghai Soong Ching Ling Foundation, 2014 - 2018
