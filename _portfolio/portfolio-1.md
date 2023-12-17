@@ -43,5 +43,14 @@ We built a model to map the dynamics of human sentiments of heat exposure with L
 
 Most existing trajectory clustering methods use point matching similarity measurement strategies to compare trajectory objects; however, such methods have poor similarity measurement accuracy, which reduces clustering quality. To address this research gap, this article considers a combination of trajectory-feature learning and clustering. A deep trajectory clustering (DTC) method toward clustering-friendly spaces is proposed to simultaneously learn trajectory representations (i.e., low-dimensional vectors are used to represent trajectories) and cluster centroids, and further acquire the cluster assignments end to end. We first use a sequence-to-sequence autoencoder network for pretraining to obtain preliminary trajectory vectors, and then jointly optimize the learned representations and cluster centroids under the same framework. The effectiveness of DTC is demonstrated in synthetic datasets, and the learned representations in the real world can be used to identify hot routes in cities.
 
-<br/><img src='/images/rs1-5.png' width='800'>
+<br/><img src='/images/rs1-6.png' width='800'>
+
+<h2>Street View Image for Urban Change Detection</h2>
+
+<sub><strong>Lyu, F., Ma, X., Song, Y., Zhu, E., Wang, S. (2023). Large‐scale Google Street View Images for Urban Change Detection. I‐GUIDE Forum 2023. DOI: 10.5703/1288284317674</strong></sub>
+
+Urbanization has entered a new phase characterized by urban changes occurring at a micro-scale and “under the roof”, as opposed to external modifications. These changes, known as urban retrofitting, involve the incorporation of novel technologies or features into pre-existing systems to promote sustainability. Given the limitations of remote sensing images in identifying such urban changes, novel tools need to be developed for detecting urban retrofitting. In this study, we first build a pipeline to collect large-scale time-series urban street view images from Google Street View in Mecklenburg County, North Carolina. And we examine the feasibility of utilizing the acquired dataset to detect diverse forms of urban retrofitting, including re-building, re-greening and re-capital.
+
+<br/><img src='/images/rs1-6.png' width='800'>
+
 
