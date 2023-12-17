@@ -25,9 +25,12 @@ redirect_from:
 ## Video Games I Love
 * Bloodborne
 * Dark Souls 1&2&3
-* Crusader Kings III
-* Stellaris
 * Demon's Souls
+* Crusader Kings III
+* Hearts of Iron IV
+* Europa Universalis IV
+* Victoria 3
+* Stellaris
 * Total War: Warhammer
 * Sekiro: Shadows Die Twice
 * The Witcher 3: Wild Hunt
