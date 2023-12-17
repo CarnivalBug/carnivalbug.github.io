@@ -55,6 +55,7 @@ Teaching
   
 Awards, Fellowships
 ======
+* George Beatty Fellowship, University of Illinois Urbana-Champaign, 2023
 * Finalist, AAG-GISS student paper competition, Association of American Geographers, 2022
 * Finalist, AAG Robert Raskin Student Competition, Association of American Geographers, 2019
 * First Division Honor, The University of Hong Kong, 2018
@@ -69,11 +70,12 @@ Awards, Fellowships
 Service
 ======
 * ***Reviewer*** Environmental Modelling & Software; Transactions in GIS; The Egyptian Journal of Remote Sensing and Space
-Sciences; Journal of Spatial Information Science
+Sciences; Journal of Spatial Information Science; IEEE Transactions on Big Data; Geo‐spatial Information Science
 * ***Director*** American Association of Geographers CyberInfrastructure Specialty Group, 2023‑2025
+* ***Organizer*** AAG 2024 Symposium on Geospatial Data Science for Sustainability, 2024
 * ***Session Chair*** AAG 2023 Symposium on Harnessing the Geospatial Data Revolution for Sustainability Solutions: CyberGIS
 and High‑Performance Geospatial Computing
-* ***Student Committee Member*** 2023 School of Earth, Society, and Environment (SESE) Research Review, University of Illinois Urbana-Champaign
+* ***Committee Member*** 2023 School of Earth, Society, and Environment (SESE) Research Review, University of Illinois Urbana-Champaign
 * ***Mentor*** 2019 AAG‑UCGIS Summer School
 
 
