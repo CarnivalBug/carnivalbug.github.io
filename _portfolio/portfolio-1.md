@@ -1,5 +1,5 @@
 ---
-title: "Urban Studies"
+title: "Urban Dynamic Studies"
 excerpt: "<img src='/images/rs1.png' width='800'>"
 collection: portfolio
 ---
