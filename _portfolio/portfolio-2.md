@@ -1,5 +1,5 @@
 ---
-title: "Remote Sensing Feature Extration"
+title: "Scalable Spatial Algorithm"
 excerpt: "<img src='/images/rs2.png' width='800'>"
 collection: portfolio
 ---
