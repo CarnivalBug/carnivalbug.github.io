@@ -55,7 +55,7 @@ Teaching
   
 Awards, Fellowships
 ======
-* George Beatty Fellowship, University of Illinois Urbana-Champaign, 2023
+* George Beatty Fellowship, University of Illinois Urbana-Champaign, 2023 - 2024
 * Finalist, AAG-GISS student paper competition, Association of American Geographers, 2022
 * Finalist, AAG Robert Raskin Student Competition, Association of American Geographers, 2019
 * First Division Honor, The University of Hong Kong, 2018
