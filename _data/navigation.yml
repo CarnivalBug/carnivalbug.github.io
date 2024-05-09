@@ -18,5 +18,5 @@ main:
   - title: "Notebook & Data"
     url: /data/
     
-  - title: "Hobbies"
-    url: /markdown/
+#  - title: "Hobbies"
+#    url: /markdown/
