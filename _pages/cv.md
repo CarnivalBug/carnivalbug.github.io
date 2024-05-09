@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Here](https://drive.google.com/file/d/1Cukc948_8sjqmxBMIPWJ28GCkfhjXBRP/view?usp=sharing)
-
 Education
 ======
 * Ph.D in Geography and Environmental Studies, University of Illinois Urbana-Champaign, 2024
