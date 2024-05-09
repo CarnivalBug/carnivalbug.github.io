@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Fangzheng Lyu"
 title_separator          : "-"
-name                     : &name "Fangzheng Lyu, Ph.D."
+name                     : &name "Fangzheng Lyu"
 description              : &description "Incoming Assistant Professor at Virginia Tech"
 url                      : https://carnivalbug.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
