@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fangzheng Lyu (吕方正)"
+title                    : "Fangzheng Lyu"
 title_separator          : "-"
-name                     : &name "Fangzheng Lyu"
-description              : &description "PhD Student at University of Illinois at Urbana-Champaign"
+name                     : &name "Fangzheng Lyu, Ph.D."
+description              : &description "Incoming Assistant Professor at Virginia Tech"
 url                      : https://carnivalbug.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fangzheng Lyu"
+  name             : "Fangzheng Lyu, Ph.D."
   avatar           : "profile.png"
-  bio              : "PhD Student at University of Illinois at Urbana-Champaign"
-  location         : "Champaign, IL"
+  bio              : "Incoming Assistant Professor at Virginia Tech"
+  location         : 
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=FNN4IasAAAAJ&hl=en"
-  email            : "flu8@illinois.edu"
+  email            : "fangzheng@vt.edu"
   researchgate     : "https://www.researchgate.net/profile/Fangzheng-Lyu?ev=hdr_xprf&_sg=vmjnGCoLSMoIstpTfvbwLDWz7EEV2t6y8fN1ITKsF5jq0P1TlgBxe4Wi36DI9nKYZQu4wz0eYxDCy7Ldr8sWiY_2"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
