@@ -28,7 +28,7 @@ Academic Appointment
   * Department of Geography and GIS, University of Illinois at Urbana-Champaign
   * Advisor: Dr. Shaowen Wang
 
-* Spring & Fall 2017: Research Assistant
+* 2017: Research Assistant
   * Department of Computer Science, University of Hong Kong
 
 
