@@ -12,11 +12,12 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Notebook & Data"
-    url: /data/
-    
   - title: "CV"
     url: /cv/
+
+  - title: "Notebook & Data"
+    url: /data/
+  
  
     
 #  - title: "Hobbies"
