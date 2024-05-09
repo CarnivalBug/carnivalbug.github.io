@@ -18,7 +18,7 @@ Education
 
 Academic Appointment
 ======
-* Incoming 2024 - : Assistant Professor
+* Incoming 2024.8: Assistant Professor
   * Department of Geography, Virginia Tech
 
 * 2018 - 2024: Research/Teaching Assistant
