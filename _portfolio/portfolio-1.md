@@ -4,6 +4,14 @@ excerpt: "<img src='/images/rs1.png' width='800'>"
 collection: portfolio
 ---
 
+<h2>Human Sentiments of Urban Heat</h2>
+
+<sub><strong> Lyu, F., Zhou, L., Park, J., Baig, F., Wang, S. Mapping Dynamic Human Sentiments of Heat Exposure with Location‑Based Social Media Data. International Journal of Geographical Information Science, 1–24. https://doi.org/10.1080/13658816.2024.2343063</strong></sub>
+
+We built a model to map the dynamics of human sentiments of heat exposure with Location‑Based Social Media Twitter data. And we are modeling it in a near real-time fashion.
+
+<br/><img src='/images/rs1-4.png' width='800'>
+
 <h2>Urban Heat Dynamics</h2>
 
 <sub><strong>Lyu, F., Wang, S., Han, S.Y. et al. An integrated cyberGIS and machine learning framework for fine-scale prediction of Urban Heat Island using satellite remote sensing and urban sensor network data. Urban Info 1, 6 (2022). https://doi.org/10.1007/s44212-022-00002-4 </strong></sub>
@@ -27,14 +35,6 @@ Increasingly pervasive location-aware sensors interconnected with rapidly advanc
 The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), causing the coronavirus disease 2019 (COVID-19) pandemic, has infected millions of people and caused hundreds of thousands of deaths. While COVID-19 has overwhelmed healthcare resources (e.g., healthcare personnel, testing resources, hospital beds, and ventilators) in a number of countries, limited research has been conducted to understand spatial accessibility of such resources. This study fills this gap by rapidly measuring the spatial accessibility of COVID-19 healthcare resources with a particular focus on Illinois, USA.
 
 <br/><img src='/images/rs1-3.png' width='800'>
-
-<h2>Human Sentiments of Urban Heat</h2>
-
-<sub><strong> Lyu, F., Zhou, L., Park, J., Baig, F., Wang, S. Mapping Dynamic Human Sentiments of Heat Exposure with Location‑Based Social Media Data. Under review with International Journal of Geographical Information Science</strong></sub>
-
-We built a model to map the dynamics of human sentiments of heat exposure with Location‑Based Social Media Twitter data. And we are modelling it in a near real-time fashion.
-
-<br/><img src='/images/rs1-4.png' width='800'>
 
 
 <h2>Taxi Trajectory Clustering in Urban Area</h2>
