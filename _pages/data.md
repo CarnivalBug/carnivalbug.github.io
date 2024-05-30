@@ -21,6 +21,7 @@ redirect_from:
 
 ## Data
 ### Illinois Databank
+* [Mapping dynamic human sentiments of heat exposure with location-based social media data](https://doi.org/10.13012/B2IDB-9405860_V1)
 * [A Vector-Based Method for Drainage Network Analysis Based on LiDAR Data](https://databank.illinois.edu/datasets/IDB-6359717)
 * [Multi-scale CyberGIS Analytics for Detecting Spatiotemporal Patterns of COVID-19](https://databank.illinois.edu/datasets/IDB-0299659)
 * [Spatial accessibility of COVID-19 healthcare resources in Illinois, USA](https://databank.illinois.edu/datasets/IDB-6582453)
