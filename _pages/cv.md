@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Geography, University of Illinois Urbana-Champaign, 2024
-* MS in Geography, University of Illinois Urbana-Champaign, 2021
-* BE in Computer Engineering, University of Hong Kong, 2018
+* Ph.D. in Geography, University of Illinois Urbana-Champaign, 2024
+* M.S. in Geography, University of Illinois Urbana-Champaign, 2021
+* B.E. in Computer Engineering, University of Hong Kong, 2018
 
 
 Academic Appointment
