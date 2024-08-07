@@ -83,8 +83,8 @@ author:
   name             : "Fangzheng Lyu"
   avatar           : "profile.png"
   bio              : "Assistant Professor at Virginia Tech"
-  location         : "Blacksburg, VA"
-  employer         : "https://geography.vt.edu/people/lyu.html"
+  location         : 
+  employer         : "[Department Website](https://geography.vt.edu/people/lyu.html)"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=FNN4IasAAAAJ&hl=en"
   email            : "fangzheng@vt.edu"
