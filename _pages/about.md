@@ -14,12 +14,12 @@ My research interests are centered around **GIScience**, **Geospatial Data Scien
 
 ====
 **Recent News**
-2024.12.12 - I presented at [AGU 2024](https://www.agu.org/annual-meeting) in Washington DC
-2024.11.25 - Check out my new paper [Multi-stream STGAN: A Spatiotemporal Image Fusion Model with Improved Temporal Transferability](https://ieeexplore.ieee.org/abstract/document/10767408) published in IEEE JSTARS
-2024.10.15 - Check out my new paper [A Convergence Framework for Integrating CyberGIS Education and Research on I-GUIDE Platform](https://docs.lib.purdue.edu/iguide/2024/presentations/1/) I-GUIDE Forum
-2024.10.15 - I presented at the [I-GUIDE forum 2025](https://i-guide.io/forum/forum-2024/)
-2024.8.10 - I started a new position as an assistant professor at the [Department of Geography at Virginia Tech](https://geography.vt.edu/)
-2024.7.17 - Check out my new paper [NetPointLib: Library for Large-Scale Spatial Network Point Data Fusion and Analysis](https://dl.acm.org/doi/abs/10.1145/3626203.3670615) published in PEARC2024
-2024.6.13 - Check out my new paper [From Individual Motivation to Geospatial Epidemiology: A Novel Approach Using Fuzzy Cognitive Maps and Agent-Based Modeling for Large-Scale Disease Spread](https://www.mdpi.com/2071-1050/16/12/5036) published in Sustainability
-2024.4.20 - Check out my new paper [Mapping dynamic human sentiments of heat exposure with location-based social media data
+- 2024.12.12 - I presented at [AGU 2024](https://www.agu.org/annual-meeting) in Washington DC
+- 2024.11.25 - Check out my new paper [Multi-stream STGAN: A Spatiotemporal Image Fusion Model with Improved Temporal Transferability](https://ieeexplore.ieee.org/abstract/document/10767408) published in IEEE JSTARS
+- 2024.10.15 - Check out my new paper [A Convergence Framework for Integrating CyberGIS Education and Research on I-GUIDE Platform](https://docs.lib.purdue.edu/iguide/2024/presentations/1/) I-GUIDE Forum
+- 2024.10.15 - I presented at the [I-GUIDE forum 2025](https://i-guide.io/forum/forum-2024/)
+- 2024.8.10 - I started a new position as an assistant professor at the [Department of Geography at Virginia Tech](https://geography.vt.edu/)
+- 2024.7.17 - Check out my new paper [NetPointLib: Library for Large-Scale Spatial Network Point Data Fusion and Analysis](https://dl.acm.org/doi/abs/10.1145/3626203.3670615) published in PEARC2024
+- 2024.6.13 - Check out my new paper [From Individual Motivation to Geospatial Epidemiology: A Novel Approach Using Fuzzy Cognitive Maps and Agent-Based Modeling for Large-Scale Disease Spread](https://www.mdpi.com/2071-1050/16/12/5036) published in Sustainability
+- 2024.4.20 - Check out my new paper [Mapping dynamic human sentiments of heat exposure with location-based social media data
 ](https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2343063) published in IJGIS
