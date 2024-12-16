@@ -13,7 +13,7 @@ I am an Assistant Professor in the [Department of Geography](https://geography.v
 My research interests are centered around **GIScience**, **Geospatial Data Science** and **Computational Science**, aiming to tackle complex geospatial problems and understand multi-scale urban dynamics using heterogeneous geospatial big data. Specifically, my research work focuses on 1) geospatial data science for understanding multi-scale urban dynamics, where I integrate machine learning with cyberGIS to predict and analyze complex urban phenomena (e.g. Urban Heat Islands) and develop frameworks for extracting information from heterogenous spatiotemporal data (e.g. high-frequency sensor data, social media data); 2) scalable spatial algorithms for solving complex geospatial problems, including developing scalable algorithms and models for geospatial analysis (e.g. remote sensing image fusion) using high-performance computing; and 3) democratization of data-intensive geographic research, where I innovate geospatial middleware approaches to simplify access to advanced cyberinfrastructure and enable collaborative geographic research and education.
 
 
-====
+======
 
 **Recent News**
 
