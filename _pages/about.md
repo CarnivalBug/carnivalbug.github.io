@@ -14,6 +14,7 @@ My research interests are centered around **GIScience**, **Geospatial Data Scien
 
 ====
 **Recent News**
+====
 - 2024.12.12 - I presented at [AGU 2024](https://www.agu.org/annual-meeting) in Washington DC
 - 2024.11.25 - Check out my new paper [Multi-stream STGAN: A Spatiotemporal Image Fusion Model with Improved Temporal Transferability](https://ieeexplore.ieee.org/abstract/document/10767408) published in IEEE JSTARS
 - 2024.10.15 - Check out my new paper [A Convergence Framework for Integrating CyberGIS Education and Research on I-GUIDE Platform](https://docs.lib.purdue.edu/iguide/2024/presentations/1/) I-GUIDE Forum
