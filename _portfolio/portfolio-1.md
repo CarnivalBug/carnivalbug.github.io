@@ -1,6 +1,6 @@
 ---
 title: "Urban Dynamic Studies"
-excerpt: "<img src='/images/rs1-4.png' width='800'>"
+excerpt: "<img src='/images/rs1.png' width='800'>"
 collection: portfolio
 ---
 
