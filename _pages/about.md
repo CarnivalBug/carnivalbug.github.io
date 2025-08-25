@@ -15,7 +15,10 @@ My research interests are centered around **GIScience**, **Geospatial Data Scien
 <code style="color:orange">I am looking for a PhD student to join in Fall 2026 (fully funded by Research Assistantship) & multiple master's students in Spring & Fall 2026 (fully funded by Teaching Assistantship). Please contact me at [fangzheng@vt.edu](fangzheng@vt.edu) if you are interested.</code>
 
 **Recent News**
-
+- 2025.8.4 - Check out my paper [A Video Machine Learning Framework for Spatiotemporal Analysis of Complex Urban Dynamics](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.70096) published in Transactions in GIS
+- 2025.7.31 - Check out my new book chapter [Converging GeoAI and CyberGIS for Human Geography](https://link.springer.com/chapter/10.1007/978-3-031-87421-5_8) published in Springer Book GeoAI and Human Geography
+- 2025.7.15 - Check out my new paper [Evaluating the Evaluation Matrices: Integrating Spatial Assessment in Geospatial AI Model Training and Evaluation](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1035&context=iguide) published in I-GUIDE Forum 2025
+- 2025.6.19 - I presented at [I-GUIDE Forum](https://i-guide.io/forum/forum-2025/) in Chicago, IL
 - 2025.3.27 - I presented at [AAG 2025](https://www.aag.org/events/aag2025/) in Detroit, MI
 - 2025.1.3 - Check out my new paper [Revitalizing Cities: The 5R Framework Approach to Urban Retrofitting and Big Data Insights](https://onlinelibrary.wiley.com/doi/full/10.1111/grow.70018) published in Growth and Change
 - 2024.12.12 - I presented at [AGU 2024](https://www.agu.org/annual-meeting) in Washington DC
