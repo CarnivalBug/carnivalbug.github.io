@@ -21,6 +21,9 @@ Academic Appointment
 * 2024 - present: Assistant Professor
   * Department of Geography, Virginia Tech
 
+* 2025 - present: Director
+  * GeoCompute Research Lab
+
 * 2018 - 2024: Research/Teaching Assistant
   * Department of Geography and GIS, University of Illinois at Urbana-Champaign
   * Advisor: Dr. Shaowen Wang
@@ -63,15 +66,11 @@ Awards, Fellowships
 * Soong Ching-ling Scholarship, Shanghai Soong Ching Ling Foundation, 2014 - 2018
 * First Prize at Zhejiang Physics Olympiad, Zhejiang Physical Society, 2013
 
-Service
+Selected Service
 ======
-* ***Reviewer*** Environmental Modelling & Software; Transactions in GIS; The Egyptian Journal of Remote Sensing and Space
-Sciences; Journal of Spatial Information Science; IEEE Transactions on Big Data; Computational Urban Science; Geo‐spatial Information Science
-* ***Director*** American Association of Geographers CyberInfrastructure Specialty Group, 2023‑2025
-* ***Organizer*** AAG 2024 Symposium on Geospatial Data Science for Sustainability, 2024
-* ***Session Chair*** AAG 2023 Symposium on Harnessing the Geospatial Data Revolution for Sustainability Solutions: CyberGIS
-and High‑Performance Geospatial Computing
-* ***Committee Member*** 2023 School of Earth, Society, and Environment (SESE) Research Review, University of Illinois Urbana-Champaign
-* ***Mentor*** 2019 AAG‑UCGIS Summer School
+* ***Vice Chair, Director*** American Association of Geographers CyberInfrastructure Specialty Group, 2023‑pres.
+* ***Chair*** AAG 2025 Symposium on Spatial AI & Data Science for Sustainability; AAG 2026 Symposium on Spatial AI and Data Science: Frontiers and Applications, 2025 & 2026
+* ***Committee*** UCGIS Membership and Research Committee, 2025-pres.
+* ***Graduate Committee*** VT Department of Geography, 2024-pres.
 
 
