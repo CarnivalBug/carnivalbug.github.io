@@ -15,6 +15,8 @@ My research interests are centered around **GIScience**, **Geospatial Data Scien
 <code style="color:red">I am actively recruiting undergraduate, Master’s, and PhD students to join my group. I am looking for motivated PhD students in Geospatial Data Science and GeoAI to join in Fall 2027 (fully funded by Research Assistantship) & master's students in Spring & Fall 2027 (fully funded by Teaching Assistantship). Please contact me at fangzheng@vt.edu if you are interested.</code>
 
 **Recent News**
+- 2026.3.28 - Check out new paper [Does stadium construction drive surrounding urban development? Evidence from spatiotemporal impacts of large-scale stadiums in China](https://www.sciencedirect.com/science/article/abs/pii/S0143622826001025) published in Applied Geography
+- 2026.3.17 - I presented at [AAG 2026](https://www.aag.org/events/aag2026/) in San Francisco, CA.
 - 2026.3.3 - Check out my paper [Converging high-performance computing and machine learning for geospatial discovery and innovation](https://www.tandfonline.com/doi/full/10.1080/19475683.2026.2639769) published in Annals of GIS
 - 2025.8.4 - Check out my paper [A Video Machine Learning Framework for Spatiotemporal Analysis of Complex Urban Dynamics](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.70096) published in Transactions in GIS
 - 2025.7.31 - Check out my new book chapter [Converging GeoAI and CyberGIS for Human Geography](https://link.springer.com/chapter/10.1007/978-3-031-87421-5_8) published in Springer Book GeoAI and Human Geography
