@@ -15,6 +15,10 @@ My research interests are centered around **GIScience**, **Geospatial Data Scien
 <code style="color:red">I am actively recruiting undergraduate, Master’s, and PhD students to join my group. I am looking for motivated PhD students in Geospatial Data Science and GeoAI to join in Fall 2027 (fully funded by Research Assistantship) & master's students in Spring & Fall 2027 (fully funded by Teaching Assistantship). Please contact me at fangzheng@vt.edu if you are interested.</code>
 
 **Recent News**
+- 2026.6.15 - I am serving in the editoral board for Annals of the American Association of Geographers
+- 2026.6.5 - The GeoCompute Lab team (Raj & Fangzheng) wins first place in [Spatial AI Challenge](https://i-guide.io/spatial-ai-challenge-2025-26/challenge-winners/)
+- 2026.6.1 - Check out new paper [Customized decision-making support per location's characteristics of spatial accessibility: A case study of emergency healthcare in New York City](https://www.sciencedirect.com/science/article/pii/S0198971526000608) published in Computer, Environment and Urban Systems
+- 2026.5.15 - Check out new paper [FG-TreeSeg: Flow-Guided Tree Crown Segmentation without Instance Annotations](https://ieeexplore.ieee.org/abstract/document/11520829) published in IEEE Geoscience and Remote Sensing Letters
 - 2026.3.20 - I am serving as Chair for AAG Cyberinfrastructure Specialty Group.
 - 2026.3.28 - Check out new paper [Does stadium construction drive surrounding urban development? Evidence from spatiotemporal impacts of large-scale stadiums in China](https://www.sciencedirect.com/science/article/abs/pii/S0143622826001025) published in Applied Geography
 - 2026.3.17 - I presented at [AAG 2026](https://www.aag.org/events/aag2026/) in San Francisco, CA.
