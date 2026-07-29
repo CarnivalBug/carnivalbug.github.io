@@ -15,6 +15,7 @@ My research interests are centered around **GIScience**, **Geospatial Data Scien
 <code style="color:red">I am actively recruiting undergraduate, Master’s, and PhD students to join my group. I am looking for motivated PhD students in Geospatial Data Science and GeoAI to join in Fall 2027 (fully funded by Research Assistantship) & master's students in Spring & Fall 2027 (fully funded by Teaching Assistantship). Please contact me at fangzheng@vt.edu if you are interested.</code>
 
 **Recent News**
+- 2026.7.27 - Our project CyberTraining: Implementation: Small: CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation is funded by National Science Foundation (NSF) ($494,994). PI: Fangzheng Lyu; Co-PI: Alex Michels, Carol Song
 - 2026.6.15 - I am serving in the editoral board for Annals of the American Association of Geographers
 - 2026.6.5 - The GeoCompute Lab team (Raj & Fangzheng) wins first place in [Spatial AI Challenge](https://i-guide.io/spatial-ai-challenge-2025-26/challenge-winners/)
 - 2026.6.1 - Check out new paper [Customized decision-making support per location's characteristics of spatial accessibility: A case study of emergency healthcare in New York City](https://www.sciencedirect.com/science/article/pii/S0198971526000608) published in Computer, Environment and Urban Systems
