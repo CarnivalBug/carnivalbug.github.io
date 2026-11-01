@@ -31,6 +31,13 @@ Academic Appointment
 * 2017: Research Assistant
   * Department of Computer Science, University of Hong Kong
 
+Grant
+======
+* ***PI, NSF, $494,994, 2026-2029.*** CITY‑AI: Cybertraining for AI‑enabled Intelligent Urban Informatics and Smart City Innovation. Lyu, F. (PI), Michels, A. (Co‑PI, UTD), Song, C. (Co‑PI, Purdue).
+* ***Co-PI, Virginia Center for Health Innovation, $40,000, 2026-2027.*** Identifying Opportunities to Improve Type 2 Diabetes Care in Virginia: An All‑Payer Claims Analysis. Zhang, M. (PI, VT), Eberth, J. (Co‑PI, VT), Lyu, F. (Co‑PI).
+* ***PI, NSF ACCESS, 200,000 SUs, 2025-2027.*** AI‑driven Quantification, Detection, and Analysis of Urban Retrofitting. Lyu, F. (PI).
+* ***Co-PI, NSF ACCESS, 200,000 SUs, 2026-2027.*** CITY‑AI Computing Resources. Michels, A. (PI, UTD), Lyu, F (Co‑PI).
+* ***PI, Virginia Tech, $1,500, 2025-2026.*** Faculty Mentoring Grant. Lyu, F (PI).
 
 Publications
 ======
@@ -38,7 +45,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,6 +59,7 @@ Teaching
   
 Awards, Fellowships
 ======
+* First Place, Spatial AI Challenge, 2026
 * AAG Geospatial Cyberinfrastructure Workshop Scholarship, National Science Foundation, 2024
 * George Beatty Fellowship, University of Illinois Urbana-Champaign, 2023 - 2024
 * 2nd Place, Urban Informatics Paper of the Year, International Society for Urban Informatics, 2023
@@ -68,9 +76,11 @@ Awards, Fellowships
 
 Selected Service
 ======
-* ***Vice Chair, Director*** American Association of Geographers CyberInfrastructure Specialty Group, 2023‑pres.
+* ***Chair, Vice Chair, Director*** American Association of Geographers CyberInfrastructure Specialty Group; 2026‑pres, 2024-2026, 2023-2024.
+* ***Editorial Board Member*** Annals of American Association of Geographers, 2026‑pres.
 * ***Chair*** AAG 2025 Symposium on Spatial AI & Data Science for Sustainability; AAG 2026 Symposium on Spatial AI and Data Science: Frontiers and Applications, 2025 & 2026
 * ***Committee*** UCGIS Membership and Research Committee, 2025-pres.
+* ***Student Policies & Affairs Committee*** VT College of Natural Resources and Environment, 2026-pres.
 * ***Graduate Committee*** VT Department of Geography, 2024-pres.
 
 
