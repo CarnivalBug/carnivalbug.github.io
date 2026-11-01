@@ -15,12 +15,12 @@ I develops scalable geospatial computing and AI methods to transform big spatial
 <code style="color:red">I am actively recruiting undergraduate, Master’s, and PhD students to join my group. I am looking for motivated PhD students in Geospatial Data Science and GeoAI to join in Fall 2027 (fully funded by Research Assistantship) & master's students in Spring & Fall 2027 (fully funded by Teaching Assistantship). Please contact me at fangzheng@vt.edu if you are interested.</code>
 
 **Recent News**
-- 2026.10.29 - Our project CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation is funded by **NSF ACCESS (20,000 SUs; NSF ACCESS-SOC260109)**. PI: Alex Michels; Co-PI: Fangzheng Lyu
+- 2026.10.29 - My Co-PI project CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation is funded by **NSF ACCESS (20,000 SUs; NSF ACCESS-SOC260109)**. PI: Alex Michels; Co-PI: Fangzheng Lyu
 - 2026.10.9 - I presented at [ACSP 2026](https://www.acsp.org/general/custom.asp?page=ConfAllAbout2026) in Pittsburgh, PA.
 - 2026.10.3 - I presented at [CGA 20th Anniversary Annual Conference](https://harvard-cga.github.io/cga-conference-2026/) in Cambridge, MA.
-- 2026.10.1 - Our project Identifying Opportunities to Improve Type 2 Diabetes Care in Virginia: An All-Payer Claims Analysis is funded by **Virginia Center for Health Innovation ($40,000)**. PI: Zhang, M.; Co-PI: Eberth, J., Lyu, F.
+- 2026.10.1 - My Co-PI project Identifying Opportunities to Improve Type 2 Diabetes Care in Virginia: An All-Payer Claims Analysis is funded by **Virginia Center for Health Innovation ($40,000)**. PI: Zhang, M.; Co-PI: Eberth, J., Lyu, F.
 - 2026.9.15 - Check out new paper [VLM4S: A Vision‐Language Model Framework for Geographically and Environmentally Informed Soundscape Assessment](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.70394) published in Transactions in GIS.
-- 2026.7.27 - Our project CyberTraining: Implementation: Small: CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation is funded by **NSF ($494,994; NSF OAC-2612144)**. PI: Fangzheng Lyu; Co-PI: Alex Michels, Carol Song
+- 2026.7.27 - My PI project CyberTraining: Implementation: Small: CITY-AI: CyberTraining for AI-Enabled Intelligent Urban Informatics and Smart City Innovation is funded by **NSF ($494,994; NSF OAC-2612144)**. PI: Fangzheng Lyu; Co-PI: Alex Michels, Carol Song
 - 2026.6.15 - I am serving in the editoral board for **Annals of the American Association of Geographers**
 - 2026.6.5 - The GeoCompute Lab team (Raj & Fangzheng) wins first place in [Spatial AI Challenge](https://i-guide.io/spatial-ai-challenge-2025-26/challenge-winners/)
 - 2026.6.1 - Check out new paper [Customized decision-making support per location's characteristics of spatial accessibility: A case study of emergency healthcare in New York City](https://www.sciencedirect.com/science/article/pii/S0198971526000608) published in Computer, Environment and Urban Systems
@@ -32,7 +32,7 @@ I develops scalable geospatial computing and AI methods to transform big spatial
 - 2025.8.4 - Check out my paper [A Video Machine Learning Framework for Spatiotemporal Analysis of Complex Urban Dynamics](https://onlinelibrary.wiley.com/doi/full/10.1111/tgis.70096) published in Transactions in GIS
 - 2025.7.31 - Check out my new book chapter [Converging GeoAI and CyberGIS for Human Geography](https://link.springer.com/chapter/10.1007/978-3-031-87421-5_8) published in Springer Book GeoAI and Human Geography
 - 2025.7.15 - Check out my new paper [Evaluating the Evaluation Matrices: Integrating Spatial Assessment in Geospatial AI Model Training and Evaluation](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1035&context=iguide) published in I-GUIDE Forum 2025
-- 2025.6.30 - Our project AI-driven Quantification, Detection, and Analysis of Urban Retrofitting is funded by **NSF ACCESS (20,000 SUs; NSF ACCESS-CIS250619)**. PI: Fangzheng Lyu
+- 2025.6.30 - My PI project AI-driven Quantification, Detection, and Analysis of Urban Retrofitting is funded by **NSF ACCESS (20,000 SUs; NSF ACCESS-CIS250619)**. PI: Fangzheng Lyu
 - 2025.6.19 - I presented at [I-GUIDE Forum](https://i-guide.io/forum/forum-2025/) in Chicago, IL
 - 2025.3.27 - I presented at [AAG 2025](https://www.aag.org/events/aag2025/) in Detroit, MI
 - 2025.1.3 - Check out my new paper [Revitalizing Cities: The 5R Framework Approach to Urban Retrofitting and Big Data Insights](https://onlinelibrary.wiley.com/doi/full/10.1111/grow.70018) published in Growth and Change
